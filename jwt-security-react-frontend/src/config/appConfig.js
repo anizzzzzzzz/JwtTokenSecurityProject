@@ -1,1 +1,1 @@
-export const API_ROOT = 'http://192.168.10.104:9191';
+export const API_ROOT = 'http://localhost:9191';
